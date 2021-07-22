@@ -14,4 +14,4 @@ The player is dealt two cards face-up, while the dealer receives two cards, one 
 The player is given a chance to draw more cards. Player can either ‘hit’ or ‘stay’. If the player calls out ‘HIT’, they are given an extra card. They can then either call out ‘HIT’ again, or ‘STAY’ if they do not wish to draw any more cards. The player can ‘HIT’ as many times as they wish, but have to aim not to ‘bust’ (exceed a total of 21).
 After the player has played and either stood or busted, the dealer takes their turn. They can, again, either ‘HIT’ or ‘STAY’. If the dealer’s hand exceeds 21, if the player did not bust, they win immediately
 
-*Note: The Ace interchangeably as 1 or 11 capbility has not been added yet, but can be expected to be added within a week. 
+*Note: The Ace interchangeably as 1 or 11 capability has not been added yet, but can be expected to be added within a week. 
